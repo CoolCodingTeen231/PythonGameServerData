@@ -1,0 +1,12 @@
+body {
+  background: blue;
+  padding: 0;
+  margin: 0;
+}
+
+#player {
+  width: 100px;
+  height: 100px;
+  background-color: #0096FF;
+  position: absolute;
+}
